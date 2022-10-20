@@ -1,0 +1,82 @@
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe.config
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.pdb
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\FontAwesome.Sharp.dll
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csprojAssemblyReference.cache
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Home.resources
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Properties.Resources.resources
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.GenerateResource.cache
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CoreCompileInputs.cache
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CopyComplete
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.exe
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.pdb
+D:\GUI Coures Work 2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Scaner.resources
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe.config
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.pdb
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\AForge.dll
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.DirectShow.dll
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.dll
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\FontAwesome.Sharp.dll
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\zxing.dll
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\zxing.presentation.dll
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\AForge.xml
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.xml
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.DirectShow.xml
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\zxing.xml
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\bin\Debug\zxing.presentation.xml
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csprojAssemblyReference.cache
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Home.resources
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Properties.Resources.resources
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Scaner.resources
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.GenerateResource.cache
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CoreCompileInputs.cache
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CopyComplete
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.exe
+D:\Coz\NIBM SE\GAD\CW2\Attendance Maker\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.pdb
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe.config
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.pdb
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\AForge.dll
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.dll
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\zxing.dll
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\zxing.presentation.dll
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\AForge.xml
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.xml
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\zxing.xml
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\bin\Debug\zxing.presentation.xml
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csprojAssemblyReference.cache
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Home.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Properties.Resources.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Scaner.resources
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.GenerateResource.cache
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CoreCompileInputs.cache
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CopyComplete
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.exe
+C:\Users\DIAS-PC\Downloads\Telegram Desktop\Attendance Maker 0.1\Attendance Maker 0.1\Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.pdb
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe.config
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.exe
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\Attendance Maker.pdb
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\AForge.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.DirectShow.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\FontAwesome.Sharp.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\zxing.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\zxing.presentation.dll
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\AForge.xml
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.xml
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\AForge.Video.DirectShow.xml
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\zxing.xml
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\bin\Debug\zxing.presentation.xml
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csprojAssemblyReference.cache
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Home.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Properties.Resources.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance_Maker.Scaner.resources
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.GenerateResource.cache
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CoreCompileInputs.cache
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.csproj.CopyComplete
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.exe
+D:\Coz\NIBM SE\GAD\CW2\GUI Coures Work\02 Attendance Maker\Attendance Maker\obj\Debug\Attendance Maker.pdb
